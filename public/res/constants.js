@@ -80,6 +80,7 @@ define([], function() {
 		"school": "School",
 		"solarized-light": "Solarized Light",
 		"solarized-dark": "Solarized Dark"
+		"stackdesk": "Stackdesk Beta Theme",
 	};
 
 	return constants;
